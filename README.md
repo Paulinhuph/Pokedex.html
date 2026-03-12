@@ -49,4 +49,5 @@ https://youtu.be/SjtdH3dWLa8?si=ed2rjAO-ZWkfa32L
 
 
 
-## Deploy: pokedexxjs.netlify.app
+## Deploy:
+pokedexxjs.netlify.app
