@@ -46,3 +46,7 @@ https://youtu.be/SjtdH3dWLa8?si=ed2rjAO-ZWkfa32L
 
 <img width="1920" height="1080" alt="Captura de Tela (20)" src="https://github.com/user-attachments/assets/8a6cf65e-2267-420b-b94b-0d2f979c4bf0" />
 
+
+
+
+## Deploy: pokedexxjs.netlify.app
