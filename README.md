@@ -1,4 +1,4 @@
-# <img width="16" height="16" alt="favicon-16x16" src="https://github.com/user-attachments/assets/bee21039-54e4-4fd9-809f-e6dffb98f6e7" /> Pokédex
+# <img width="20" height="20" alt="favicon-20x20" src="https://github.com/user-attachments/assets/bee21039-54e4-4fd9-809f-e6dffb98f6e7" /> Pokédex
 
 Uma Pokédex interativa desenvolvida com HTML, CSS e JavaScript, que consome dados de Pokémon e exibe informações básicas diretamente na interface.
 
