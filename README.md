@@ -18,7 +18,7 @@
 
 ## 📦 Como executar o projeto
 Clone o repositório:
-git clone https://github.com/Paulinhuph/pokedex.git
+git clone https://github.com/Paulinhuph/pokedex.html.git
 Acesse a pasta do projeto:
 cd pokedex
 Abra o arquivo index.html no navegador.
